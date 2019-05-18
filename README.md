@@ -1,5 +1,4 @@
-
-[](https://user-images.githubusercontent.com/26845312/32426705-d95cb988-c281-11e7-9463-a3fce8076a72.png)
+![daemon logo](https://user-images.githubusercontent.com/8619106/57968955-ebce6600-798e-11e9-87c4-7a9b79fe7972.png)
 
 # Skycoin C library
 
